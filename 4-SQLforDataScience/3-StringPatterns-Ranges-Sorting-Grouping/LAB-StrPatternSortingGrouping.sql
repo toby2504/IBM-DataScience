@@ -1,6 +1,3 @@
-SELECT *
-  FROM EMPLOYEES;
-
 -- Query 1: Retrieve all employees whose address is in Elgin,IL
 SELECT *
   FROM EMPLOYEES
